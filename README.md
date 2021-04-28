@@ -17,6 +17,6 @@ So ,
 
 # fuzzy set is the set of fuzzy values or values that are not specific.
 
-# Intersection of Fuzzy Set ? 
+# Intersection of Fuzzy Set 
 
 The intersection of two sets A and B, denoted by A ∩ B, consists of all elements that are both in A and B
