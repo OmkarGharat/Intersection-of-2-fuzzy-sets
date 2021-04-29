@@ -19,4 +19,4 @@ So ,
 
 # Intersection of Fuzzy Set 
 
-The intersection of two sets A and B, denoted by A ∩ B, consists of all elements that are both in A and B
+The intersection of two fuzzy sets is defined such that the membership (y) value at any x value is the minimum of the membership values of the two fuzzy sets.
